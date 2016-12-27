@@ -1,0 +1,10 @@
+#ifndef DISKSTATUS_HPP
+#define DISKSTATUS_HPP
+
+enum DiskStatus
+{
+	INITIALIZED,
+	RESTORED
+};
+
+#endif//DISKSTATUS_HPP
